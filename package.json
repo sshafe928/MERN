@@ -8,7 +8,7 @@
     "start": "nodemon index.js"
   },
   "author": "Sabrina shafer",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
